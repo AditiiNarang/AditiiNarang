@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### *Building scalable systems. Thinking in architectures. Growing without limits.*
+### Building scalable systems with a focus on cloud and AI.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AditiNarang&color=2c5364&style=flat-square&label=Profile+Views)](https://github.com/AditiNarang)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
@@ -18,11 +18,11 @@
 
 ## About
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at KIET Group of Institutions, Ghaziabad. Certified by AWS as a Cloud Practitioner, I build and architect cloud-native systems with a focus on **scalability, security, and performance**.
+Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at KIET Group of Institutions, Ghaziabad, and an **AWS Certified Cloud Practitioner**.
 
-My work sits at the intersection of **cloud infrastructure, intelligent systems, and software engineering** — driven by the belief that impactful technology demands both rigorous foundations and relentless curiosity. I approach every project with precision, and every problem as an architecture waiting to be designed.
+Interested in building **cloud-native systems** and **intelligent applications**, with a focus on scalability, reliability, and clean architecture. I enjoy translating concepts into practical implementations and continuously improving through hands-on projects.
 
-Beyond the terminal, I lead as Secretary of the IEEE Student Chapter and actively contribute to the AWS Cloud Club at KIET — translating technical knowledge into community impact.
+Currently serving as **Secretary of the IEEE Student Chapter** and contributing to the **AWS Cloud Club at KIET**, where I engage in technical initiatives and peer learning.
 
 ---
 
@@ -46,8 +46,8 @@ Beyond the terminal, I lead as Secretary of the IEEE Student Chapter and activel
 <tr>
 <td width="60%">
 
-**B.Tech — Computer Science Engineering (AI & ML)**
-KIET Group of Institutions, Ghaziabad
+**B.Tech — Computer Science Engineering (AI & ML)**  
+KIET Group of Institutions, Ghaziabad  
 `Sep 2024 – Sep 2028`
 
 </td>
@@ -63,8 +63,8 @@ KIET Group of Institutions, Ghaziabad
 <tr>
 <td width="60%">
 
-**Holy Angel's Convent School, Muzaffarnagar**
-Class XII — CBSE
+**Holy Angel's Convent School, Muzaffarnagar**  
+Class XII — CBSE  
 Class X — CBSE
 
 </td>
@@ -81,35 +81,20 @@ Class X — CBSE
 
 ## Technical Skills
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**  
+EC2 • S3 • VPC • IAM • Route 53 • ALB • Auto Scaling  
 
-![EC2](https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-Storage-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-Networking-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Identity-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route%2053-DNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-Load%20Balancing-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-ASG-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+**Networking**  
+Subnets • Security Groups  
 
-**Networking**
+**Operating Systems & Databases**  
+Linux • MySQL  
 
-![Subnets](https://img.shields.io/badge/Subnets-Architecture-203a43?style=flat-square&logo=cisco&logoColor=white)
-![Security Groups](https://img.shields.io/badge/Security%20Groups-Firewall-203a43?style=flat-square&logo=icloud&logoColor=white)
+**Developer Tools**  
+Git • GitHub  
 
-**Operating Systems & Databases**
-
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)
-
-**CS Fundamentals**
-
-![DBMS](https://img.shields.io/badge/DBMS-Core-2c5364?style=flat-square)
-![OOPs](https://img.shields.io/badge/OOPs-Core-2c5364?style=flat-square)
+**CS Fundamentals**  
+DBMS • OOPs  
 
 ---
 
@@ -129,63 +114,63 @@ Class X — CBSE
 
 ### Scalable AWS Web Hosting Architecture
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-Load%20Balancer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-Group-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=flat-square&logo=nginx&logoColor=white)
+AWS • EC2 • ALB • Auto Scaling • Nginx  
 
-Designed and deployed a production-grade, fault-tolerant web hosting architecture on AWS. The system integrates an **Application Load Balancer (ALB)** for intelligent traffic distribution, **Auto Scaling Groups (ASG)** for elastic capacity management, and **EC2 instances** running Nginx as the application layer. The architecture enforces strict security group policies and IAM role boundaries, ensuring both operational resilience and defense-in-depth. Built to handle traffic surges without manual intervention — scalability as a design principle, not an afterthought.
+Designed and deployed a fault-tolerant web hosting architecture using **ALB, Auto Scaling Groups, and EC2 (Nginx)**. Implemented secure IAM roles and controlled network access.
+
+**Impact:** Handles traffic variation automatically with high availability and minimal manual intervention.
 
 ---
 
 ### Multi-Website Hosting on Linux using Nginx
 
-![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=flat-square&logo=nginx&logoColor=white)
+Linux • Nginx  
 
-Configured and managed a Linux-based multi-site hosting environment using Nginx **server blocks** for domain-level traffic isolation and precise routing. Each virtual host operates in a sandboxed configuration, enabling clean separation of environments, streamlined maintenance, and optimized request handling — demonstrating strong command over server administration and network-layer configuration.
+Configured a multi-site hosting setup using **Nginx server blocks** for domain-based routing and isolation.
+
+**Impact:** Enabled efficient management of multiple websites with clean separation and optimized request handling.
 
 ---
 
 ### Static Website Hosting on Amazon S3
 
-![S3](https://img.shields.io/badge/Amazon%20S3-Static%20Hosting-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+AWS S3  
 
-Deployed a fully static website on **Amazon S3** with fine-grained bucket policies, public access configuration, and lifecycle optimization. Implemented content delivery best practices to minimize latency and hosting costs. Demonstrates a clear understanding of cloud storage primitives, access control models, and cost-efficient deployment patterns — an exercise in doing more with less.
+Deployed a static website using **Amazon S3** with proper access control and optimized storage configuration.
+
+**Impact:** Achieved low-cost, reliable hosting with simplified deployment.
 
 ---
 
 ## Leadership & Experience
 
-**Secretary — IEEE Student Chapter, KIET**
-`2024 – Present`
-
-Leading chapter operations, coordinating technical events, and driving community engagement across a multidisciplinary student body. Responsible for strategic planning, cross-functional collaboration with faculty advisors, and representing the chapter in institutional forums.
-
----
-
-**Member — AWS Cloud Club, KIET**
-`2024 – Present`
-
-Active contributor to cloud-focused workshops, study groups, and peer-learning initiatives. Bridging the gap between certification knowledge and real-world deployment through hands-on sessions and mentorship.
+**Secretary — IEEE Student Chapter, KIET**  
+`2024 – Present`  
+- Leading operations and coordinating technical events  
+- Managing collaborations with faculty and student teams  
+- Driving participation and community engagement  
 
 ---
 
-**Contributor — E-Cell | I-Cell | ISTE, KIET**
+**Member — AWS Cloud Club, KIET**  
+`2024 – Present`  
+- Participating in cloud workshops and hands-on sessions  
+- Contributing to peer learning and knowledge sharing  
 
-Engaged across three high-impact student organizations — driving entrepreneurship events, innovation challenges, and technical society programs. Developed strong competencies in event management, stakeholder coordination, and cross-team execution.
+---
+
+**Contributor — E-Cell | I-Cell | ISTE, KIET**  
+- Supported execution of events and technical initiatives  
+- Collaborated across teams for planning and coordination  
 
 ---
 
 ## Achievements
 
-- Secured **Top 3 rank** in Class X with 96.2% — school-wide academic distinction
-- Secured **Top 5 rank** in Class XII with 91.2% — consistent academic excellence
-- Active organizer and participant in college-level technical and cultural events
-- Established track record of bridging technical knowledge with organizational leadership
-- AWS-certified within the first year of undergraduate study
+- Top 3 in Class X (96.2%)  
+- Top 5 in Class XII (91.2%)  
+- AWS Certified in first year of undergraduate study  
+- Active participation in technical and organizational activities  
 
 ---
 
@@ -215,38 +200,35 @@ Engaged across three high-impact student organizations — driving entrepreneurs
 ## Currently Pursuing
 
 ```
-Cloud Architecture      ██████████████░░░░░░   70%
-Machine Learning        ████████░░░░░░░░░░░░   40%
-Deep Learning & NLP     █████░░░░░░░░░░░░░░░   25%
-Systems Design          ██████████░░░░░░░░░░   50%
-Python & Data Science   ████████████░░░░░░░░   60%
+
+Cloud Architecture       ██████████████░░░░░░   70%
+Machine Learning         ████████░░░░░░░░░░░░   40%
+Deep Learning & NLP      █████░░░░░░░░░░░░░░░   25%
+Systems Design           ██████████░░░░░░░░░░   50%
+Python & Data Science    ████████████░░░░░░░░   60%
+
 ```
 
 ---
 
 ## Future Goals
 
-- Architect production-grade, AI-augmented cloud systems at scale
-- Contribute to open-source infrastructure and ML tooling projects
-- Pursue advanced AWS certifications — Solutions Architect, then Machine Learning Specialty
-- Build systems that operate reliably at global scale under real-world constraints
-- Bridge academia and industry through applied research and deployment
+- Build and scale cloud-based intelligent systems  
+- Contribute to open-source projects in cloud and ML  
+- Pursue AWS Solutions Architect and ML Specialty certifications  
+- Gain experience in real-world system design and deployment  
 
 ---
 
 ## Languages
 
-![English](https://img.shields.io/badge/English-Fluent-2c5364?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-2c5364?style=flat-square)
-![Japanese](https://img.shields.io/badge/Japanese-Beginner-203a43?style=flat-square)
+English (Fluent) • Hindi (Fluent) • Japanese (Beginner)
 
 ---
 
 <div align="center">
 
-**Serious about cloud. Serious about AI. Serious about building things that matter.**
-
-If you are working on something ambitious in cloud infrastructure, AI systems, or scalable software — I want to be part of that conversation.
+Focused on building practical, scalable solutions in cloud and AI.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-narang)
 [![Send an Email](https://img.shields.io/badge/Reach%20Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narangaditi709@gmail.com)
