@@ -168,24 +168,24 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 ## Let's Connect
 
-## Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditiinarang/">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
+  <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:aditiinarang5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <code>LinkedIn</code>
-  &nbsp;&nbsp;&nbsp;
   <code>Gmail</code>
 </p>
 
 ---
 
 ## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AditiiNarang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
