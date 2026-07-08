@@ -142,8 +142,10 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditiinarang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiinarang&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=AditiiNarang&hide_border=true&background=0a0000&stroke=8b0000&ring=b30000&fire=ff1a1a&currStreakLabel=ff4d4d&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999" 
+    width="60%" 
+  />
 </p>
 
 ---
