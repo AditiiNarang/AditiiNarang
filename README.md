@@ -5,7 +5,8 @@ Cloud & DevOps Enthusiast | AWS Certified Solutions Architect | AWS Certified Cl
 </h3>
 
 <p align="center">
-Passionate about building secure, scalable, and automated cloud solutions while continuously exploring DevOps, Infrastructure as Code, and cloud security.
+Cloud & DevOps Engineer passionate about architecting secure, scalable, and automated cloud solutions on AWS.
+Building expertise in Infrastructure as Code, containerization, cloud automation, and production-ready DevOps practices through hands-on engineering projects.
 </p>
 
 ---
