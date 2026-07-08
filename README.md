@@ -176,6 +176,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code>Gmail</code>
 </p>
+
 ---
 
 <p align="center">
