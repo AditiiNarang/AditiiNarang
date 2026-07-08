@@ -98,11 +98,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 </p>
 
 <p align="center">
-  <code>Artificial Intelligence</code>
-  <code>NumPy</code>
-  <code>Pandas</code>
-  <code>Matplotlib</code>
-  <code>Scikit-learn</code>
+  <code>Python</code>
   <code>TensorFlow</code>
 </p>
 
@@ -110,6 +106,11 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <code>Supervised Learning</code>
   <code>Unsupervised Learning</code>
   <code>Reinforcement Learning</code>
+  code>Artificial Intelligence</code>
+  <code>NumPy</code>
+  <code>Pandas</code>
+  <code>Matplotlib</code>
+  <code>Scikit-learn</code>
   <code>EDA</code>
 </p>
 
@@ -142,7 +143,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiiNarang&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AditiiNarang&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
