@@ -143,19 +143,16 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AditiiNarang&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AditiiNarang&theme=tokyonight&hide_border=true"
     width="60%"
   />
 </p>
-
 ---
 
 ## GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiinarang&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiiNarang&theme=tokyonight"/>
 </p>
 
 ---
@@ -163,27 +160,31 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiinarang&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiiNarang&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## Let's Connect
 
+
+## 🤝 Connect
+
 <p align="center">
-
-<a href="https://linkedin.com/in/aditiinarang">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:aditiinarang5@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aditiinarang5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
 </p>
 
+<p align="center">
+  <code>LinkedIn</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>Gmail</code>
+</p>
 ---
 
 <p align="center">
