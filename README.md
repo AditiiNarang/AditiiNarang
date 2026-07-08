@@ -170,21 +170,17 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aditiinarang5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <code>LinkedIn</code>
-  <code>Gmail</code>
 </p>
 
 ---
 
 ## Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=AditiiNarang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
