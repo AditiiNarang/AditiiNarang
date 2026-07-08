@@ -167,17 +167,12 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
 </p>
 <p align="center">
-  <code>&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;</code>
-  <code>&nbsp;&nbsp;&nbsp;Gmail&nbsp;&nbsp;&nbsp;</code>
+  <code>LinkedIn</code>&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>Gmail</code>
 </p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=120&section=footer&text=Code%20•%20Learn%20•%20Create&fontSize=14&fontColor=c0caf5&fontAlignY=55&animation=fadeIn" width="100%"/>
-</div>
 
 ---
 
