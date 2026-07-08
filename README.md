@@ -106,7 +106,9 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <code>Supervised Learning</code>
   <code>Unsupervised Learning</code>
   <code>Reinforcement Learning</code>
-  <code>Artificial Intelligence</code>
+</p>
+
+<p align="center">
   <code>NumPy</code>
   <code>Pandas</code>
   <code>Matplotlib</code>
@@ -170,7 +172,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark" />
 </p>
 <p align="center">
-  <code>LinkedIn</code>&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>LinkedIn</code>
   <code>Gmail</code>
 </p>
 
