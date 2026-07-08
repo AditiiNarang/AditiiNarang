@@ -166,21 +166,25 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 ## Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditiinarang/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60" />
-  </a>
-  <a href="mailto:aditiinarang5@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="60" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/aditiinarang/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60"/>
+</a><br>
+LinkedIn
+</td>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditiinarang/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:aditiinarang5@gmail.com">Gmail</a>
-</p>
+<td width="30"></td>
 
+<td align="center">
+<a href="mailto:aditiinarang5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="60"/>
+</a><br>
+Gmail
+</td>
+</tr>
+</table>
 ---
 
 <p align="center">
