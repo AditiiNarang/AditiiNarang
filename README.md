@@ -48,16 +48,12 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,linux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux&perline=8&theme=dark" />
 </p>
 
 <p align="center">
   <code>AWS</code>
   <code>Docker</code>
-  <code>Kubernetes</code>
-  <code>Terraform</code>
-  <code>Jenkins</code>
-  <code>GitHub Actions</code>
   <code>Nginx</code>
   <code>Linux</code>
 </p>
@@ -67,12 +63,11 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,bash,powershell&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,powershell&perline=6&theme=dark" />
 </p>
 
 <p align="center">
   <code>Python</code>
-  <code>Go</code>
   <code>C++</code>
   <code>C</code>
   <code>Bash</code>
@@ -84,17 +79,14 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Databases & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,git,github,gitlab,django&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github&perline=7&theme=dark" />
 </p>
 
 <p align="center">
   <code>MySQL</code>
   <code>MongoDB</code>
-  <code>DynamoDB</code>
   <code>Git</code>
   <code>GitHub</code>
-  <code>GitLab</code>
-  <code>Django</code>
 </p>
 
 ---
