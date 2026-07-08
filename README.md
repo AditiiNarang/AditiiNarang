@@ -142,11 +142,8 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditiinarang&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiinarang&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditiinarang&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiinarang&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -173,7 +170,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 ## Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/aditiinarang">
 <img src="https://skillicons.dev/icons?i=linkedin" />
