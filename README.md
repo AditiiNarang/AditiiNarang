@@ -142,11 +142,9 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AditiiNarang&theme=tokyonight&hide_border=true"
-    width="60%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiiNarang&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## GitHub Streak
@@ -171,7 +169,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aditiinarang5@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
