@@ -106,7 +106,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <code>Supervised Learning</code>
   <code>Unsupervised Learning</code>
   <code>Reinforcement Learning</code>
-  code>Artificial Intelligence</code>
+  <code>Artificial Intelligence</code>
   <code>NumPy</code>
   <code>Pandas</code>
   <code>Matplotlib</code>
@@ -167,15 +167,18 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aditiinarang5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/aditiinarang/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60" />
+  </a>
+  <a href="mailto:aditiinarang5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="60" />
+  </a>
 </p>
 
 <p align="center">
-  <code>LinkedIn</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>Gmail</code>
+  <a href="https://www.linkedin.com/in/aditiinarang/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aditiinarang5@gmail.com">Gmail</a>
 </p>
 
 ---
