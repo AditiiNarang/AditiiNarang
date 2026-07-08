@@ -167,9 +167,6 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 ## Let's Connect
 
-
-## 🤝 Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
@@ -185,6 +182,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code>Gmail</code>
 </p>
+
 ---
 
 <p align="center">
