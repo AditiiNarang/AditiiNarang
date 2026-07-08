@@ -142,9 +142,9 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app?user=AditiiNarang&hide_border=true&background=0a0000&stroke=8b0000&ring=b30000&fire=ff1a1a&currStreakLabel=ff4d4d&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999" 
-    width="60%" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AditiiNarang&theme=tokyonight&hide_border=true"
+    width="60%"
   />
 </p>
 
