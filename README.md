@@ -1,18 +1,159 @@
+<h1 align="center">Hi 👋, I'm Aditi Narang</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiinarang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditiinarang5@gmail.com) 
+<h3 align="center">
+Cloud & DevOps Enthusiast | AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aditiinarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aditiinarang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditiinarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditiinarang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditiinarang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Passionate about building secure, scalable, and automated cloud solutions while continuously exploring DevOps, Infrastructure as Code, and cloud security.
+</p>
 
 ---
+
+## 👩‍💻 About Me
+
+- ☁️ AWS Certified Solutions Architect & Cloud Practitioner
+- 💼 AWS Intern at Center of Excellence
+- 🎓 B.Tech CSE (AI & ML) Student at KIET Group of Institutions
+- 🏗️ Interested in Cloud Computing, DevOps and Infrastructure Automation
+- 🐍 Automating cloud operations using Python, Boto3 & AWS CLI
+- 🤖 Exploring Artificial Intelligence alongside Cloud Technologies
+- 🌱 Currently learning Docker, Jenkins, Terraform and Kubernetes
+- ⚡ I enjoy designing secure, scalable, production-ready cloud solutions.
+
+---
+
+## 🚀 What I'm Working On
+
+- ☁️ AWS Cloud Infrastructure
+- ⚙️ Infrastructure as Code (CloudFormation)
+- 🐳 Containerized Applications using Docker
+- 🔄 CI/CD Pipelines
+- 🔐 Cloud Security & IAM Best Practices
+- 📈 Monitoring & Observability
+- 🐍 Cloud Automation using Python
+
+---
+
+## ✨ Highlights
+
+- ☁️ Automated AWS resource provisioning using CloudFormation
+- 🐍 Built cloud automation scripts using Python, Boto3 and AWS CLI
+- 🔐 Implemented IAM least-privilege policies and secure networking
+- 🏗️ Designed production-oriented AWS architectures
+- 🚀 Hands-on experience with Infrastructure as Code
+- 👥 IEEE Secretary & AWS Cloud Club Member
+- 🏆 AWS Certified Solutions Architect
+- 🏆 AWS Certified Cloud Practitioner
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### ⚙️ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,bash" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
+
+### 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+---
+
+## 📜 Certifications
+
+- 🏆 AWS Certified Solutions Architect
+- 🏆 AWS Certified Cloud Practitioner
+- 🐳 Docker Containerization Bootcamp
+- 🤖 AI Aware Badge – AI For All
+- 📘 Programming Fundamentals using Python
+- 📐 Discrete Mathematics
+
+---
+
+## 🌱 Currently Learning
+
+- Jenkins
+- GitHub Actions
+- Terraform
+- Kubernetes
+- Docker Compose
+- CI/CD Best Practices
+- Monitoring & Observability
+- DevSecOps
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ <i>"Always learning, always building, always improving."</i> ✨
+</p>
