@@ -172,8 +172,9 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
   <a href="https://www.linkedin.com/in/aditiinarang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aditiinarang5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 ---
 
 <p align="center">
-✨ <i>"Always learning, always building, always improving."</i> ✨
+✨ <i>"Always Learning, Building and Improving."</i> ✨
 </p>
