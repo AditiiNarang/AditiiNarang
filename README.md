@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditi Narang</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+and+DevOps+Engineer" />
+</p>
+
+---
 <h3 align="center">
-Cloud & DevOps Enthusiast | AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
+AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
 </h3>
 
 <p align="center">
