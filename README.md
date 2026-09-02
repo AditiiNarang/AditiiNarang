@@ -166,7 +166,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiiNarang&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiiNarang&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
