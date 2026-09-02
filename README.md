@@ -166,11 +166,9 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://ghchart.xqsit94.in/dark:default/AditiiNarang"
-    alt="AditiiNarang's GitHub Contributions"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiiNarang&theme=tokyo-night"/>
 </p>
+
 ---
 
 ## Let's Connect
