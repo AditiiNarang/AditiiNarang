@@ -171,7 +171,7 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-hk2g...-aditii-narang.vercel.app/graph?username=AditiiNarang&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graphh-hk2g...-aditii-narang.vercel.app/graph?username=AditiiNarang&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
