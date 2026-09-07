@@ -6,7 +6,7 @@
 
 ---
 <h3 align="center">
-AWS Certified CloudOps Associate & Solutions Architect & Cloud Practitioner
+AWS Certified CloudOps Associate | AWS Certified Solutions Architect | AWS Certified Cloud Practitioner
 </h3>
 
 <p align="center">
