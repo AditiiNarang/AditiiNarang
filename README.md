@@ -166,13 +166,13 @@ Building expertise in Infrastructure as Code, containerization, cloud automation
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiiNarang&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graphh-ypsg.vercel.app/graph?username=AditiiNarang&theme=react-dark"
+    alt="Aditi's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graphh-hk2g...-aditii-narang.vercel.app/graph?username=AditiiNarang&theme=tokyo-night&hide_border=true" />
-</p>
 ---
 
 ## Let's Connect
